@@ -1,0 +1,16 @@
+installed webpack template
+
+warning from npm about
+npm WARN deprecated socks@1.1.10: If using 2.x branch, please upgrade to at least 2.1.6 to avoid a serious bug with socket data flow and an import issue introduced in 2.1.0
+not using this right now so saving for later update
+https://www.npmjs.com/package/socks
+
+DON't delete index html like blog says cus it is used in the webpack.dev.conf.js
+delete index.html
+
+
+Tests run
+C:\Users\petersonmm\Source\Repos\vueVStest\VCWebpack2\source\WebApplication1\test\e2e\specs\test.js
+
+C:\Users\petersonmm\Source\Repos\vueVStest\VCWebpack2\source\WebApplication1\test\unit\specs\HelloWorld.spec.js
+
